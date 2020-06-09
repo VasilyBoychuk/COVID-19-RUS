@@ -5,7 +5,7 @@ Some analytics and plots about Russian government data about COronaVIrus Disease
 
 ## Data Source
 
-If you want to download most recent data, follow the instructions by the link
+If you want to download the most recent data, follow the instructions by the link
 
 ```
 https://datalens.yandex/7o7is1q6ikh23?tab=ov3&utm_source=cbmain
